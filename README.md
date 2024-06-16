@@ -1,6 +1,6 @@
 ### Hi there 👋  I'm Alex.
 
-🌱 I’m currently learning JavaScript
+🌱 I’m currently learning JavaScript and Swift by 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martynov-a-d&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
